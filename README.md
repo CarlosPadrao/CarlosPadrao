@@ -1,4 +1,4 @@
-### Bem-vindo 👋
+ 👋 ### Bem-vindo
 
 - Estudante de Análise e Desenvolvimento de Sistemas.<br>
 - Foco em Desenvolvimento Web: HTML,CSS e Javascript (até o momento).
