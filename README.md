@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá 👋
+
+Estudante de Análise e desenvolvimento de Sistemas.<br>
+Foco em Desenvolvimento Web: HTML,CSS e Javascript (até o momento).
 
 <!--
 **CarlosPadrao/CarlosPadrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
