@@ -1,7 +1,8 @@
- ### 👋 Bem-vindo 
+ ### 👋 Bem-vindo ao meu perfil! Estou buscando melhorar como Dev.
 
-💬 Estudante de Análise e Desenvolvimento de Sistemas.<br>
-💬 Foco em Desenvolvimento Web: HTML,CSS e Javascript (até o momento).
+💬 Estudante de Análise e Desenvolvimento. Foco em Desenvolvimento Web.<br>
+✨ Noções HTML, CSS, JS e PHP.<br>
+
 
 <!--
 **CarlosPadrao/CarlosPadrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
