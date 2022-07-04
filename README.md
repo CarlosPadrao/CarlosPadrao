@@ -1,7 +1,8 @@
- ### 👋 Bem-vindo ao meu perfil! Estou buscando melhorar como Dev.
+ ### 👋 Bem-vindo ao meu perfil!<br> 
+ Estou buscando melhorar como Dev.
 
-💬 Estudante de Análise e Desenvolvimento. Foco em Desenvolvimento Web.<br>
-✨ Noções HTML, CSS, JS e PHP.<br>
+💬 Estudante de Análise e Desenvolvimento com foco em Desenvolvimento Web.<br>
+✨ Noções: HTML, CSS, JS e PHP.<br>
 
 
 <!--
