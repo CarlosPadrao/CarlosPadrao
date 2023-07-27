@@ -1,7 +1,8 @@
  ### 👋 Bem-vindo ao meu perfil!<br> 
- Em busca de melhorar como Dev :) e que deu atenção tardia ao github :(
+ Em busca de melhorar como Dev :) 
+ Pois é, acabei dando atenção tardia ao github né?
 
-💬 Estudante de Análise e Desenvolvimento com foco em Desenvolvimento Web.<br>
+💬 Dev Web.<br>
 ✨ Noções em HTML, CSS, JS e PHP.<br>
 
 
