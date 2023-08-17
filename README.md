@@ -1,5 +1,5 @@
  ### 👋 Bem-vindo(a)!<br> 
- Em busca de melhorar como Dev :) <br>
+ Buscando ser um Dev melhor <br>
  Pois é, acabei dando atenção tardia ao github né?
 
 💬 Dev Web.<br>
