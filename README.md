@@ -1,6 +1,7 @@
  ### 👋 Bem-vindo(a)!<br> 
  Buscando ser um Dev melhor <br>
- Pois é, acabei dando atenção tardia ao github né?
+ Pois é, acabei dando atenção tardia ao github né? <br>
+ Atualmente utilizando do tempo livre para estudar JS
 
 💬 Dev Web.<br>
 ✨ Noções em HTML, CSS, JS e PHP.<br>
