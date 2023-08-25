@@ -1,9 +1,11 @@
- ### 👋 Bem-vindo(a)!<br> 
+💬 Dev Web.<br>
+
+ ### 👋 E aí? Me chamo Carlos<br> 
  Um Dev buscando ampliar meus conhecimentos <br>
- Acabei dando atenção tardia ao github né? <br>
+ E que acabou dando pouca atenção ao github <br>
  Atualmente utilizando do tempo livre para estudar JS
 
-💬 Dev Web.<br>
+
 ✨ Noções em HTML, CSS, JS e PHP.<br>
 
 
