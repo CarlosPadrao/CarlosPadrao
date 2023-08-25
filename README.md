@@ -1,6 +1,6 @@
+ ### 👋 E aí? Me chamo Carlos<br> 
 💬 Dev Web.<br>
 
- ### 👋 E aí? Me chamo Carlos<br> 
  Um Dev buscando ampliar meus conhecimentos <br>
  E que acabou dando pouca atenção ao github <br>
  Atualmente utilizando do tempo livre para estudar JS
