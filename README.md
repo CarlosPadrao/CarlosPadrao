@@ -1,8 +1,8 @@
  ### 👋 E aí? Me chamo Carlos Padrão<br> 
 💬 Dev Web.<br>
 
- Um Dev buscando ampliar meus conhecimentos <br>
- E que acabou dando pouca atenção ao github <br>
+ Buscando conhecimento <br>
+ Acabei dando pouca atenção ao github <br>
  Atualmente utilizando do tempo livre para estudar JS
 
 
