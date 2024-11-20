@@ -3,10 +3,9 @@
 
  Buscando conhecimento <br>
  Acabei dando pouca atenção ao github <br>
- Atualmente utilizando do tempo livre para estudar JS
 
 
-✨ Noções em HTML, CSS, JS e PHP.<br>
+✨ Dev JS, TS, React | SCSS | PHP | CMS .<br>
 
 
 <!--
