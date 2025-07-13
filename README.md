@@ -2,8 +2,7 @@
 💬 Dev Web.<br>
 
  Buscando conhecimento <br>
- Acabei dando pouca atenção ao github <br>
-
+ 
 
 ✨ Dev JS, TS, React | SCSS | PHP | CMS .<br>
 
