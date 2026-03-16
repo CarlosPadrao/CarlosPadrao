@@ -4,7 +4,7 @@
  Buscando conhecimento <br>
  
 
-✨ Dev JS, TS, React | SCSS | PHP | CMS .<br>
+✨ JS, TS, React | PHP | CMS .<br>
 
 
 <!--
