@@ -1,7 +1,7 @@
  ### 👋 E aí? Me chamo Carlos Padrão<br> 
 💬 Dev Web.<br>
 
- Buscando conhecimento <br>
+ Em busca do conhecimento, sempre. <br>
  
 
 ✨ JS, TS, React | PHP | CMS .<br>
